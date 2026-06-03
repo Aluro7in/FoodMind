@@ -1,0 +1,16 @@
+streamlit
+httpx
+pandas
+fastapi
+uvicorn
+torch
+psycopg2-binary
+pymongo
+stripe
+twilio
+requests
+pillow
+numpy
+matplotlib
+plotly
+python-multipart
