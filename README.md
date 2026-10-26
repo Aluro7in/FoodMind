@@ -86,9 +86,9 @@ PORT=3001
 
 The application uses OpenAI's GPT models for:
 - Conversational AI assistant
-- Recipe recommendations
-- Nutritional analysis
-- Meal planning suggestions
+- recommendations
+- analysis
+- suggestions
 
 ### Food Recognition
 
