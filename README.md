@@ -163,12 +163,6 @@ npm run preview
 
 ## 🚀 Deployment
 
-### Bolt.new Deployment
-The application is optimized for Bolt.new deployment with:
-- Automatic dependency installation
-- Environment variable configuration
-- Production build optimization
-
 ### Manual Deployment
 1. Build the application: `npm run build`
 2. Deploy the `dist` folder to your hosting service
