@@ -9,12 +9,6 @@ FoodMind is a comprehensive web application that combines artificial intelligenc
 - **Food Recognition**: Computer vision for instant food identification
 - **Personalized Recommendations**: AI-driven meal planning and nutrition advice
 
-### 🍽️ Nutrition & Recipes
-- **Smart Recipe Database**: 15,000+ AI-curated healthy recipes
-- **Nutritional Analysis**: Detailed macro and micronutrient breakdowns
-- **Meal Planning**: Automated weekly meal plans based on preferences
-- **Dietary Accommodations**: Support for various dietary restrictions
-
 ## 🛠️ Technology Stack
 
 ### Frontend
