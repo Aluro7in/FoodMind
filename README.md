@@ -1,13 +1,6 @@
 # FoodMind - AI-Powered Nutrition & Meal Planning
 
-FoodMind is a comprehensive web application that combines artificial intelligence with nutrition science to provide personalized meal planning, food recognition, and dietary guidance.
-
-## 🚀 Features
-
-### 🧠 AI-Powered Core
-- **OpenAI Integration**: Advanced conversational AI for nutrition guidance
-- **Food Recognition**: Computer vision for instant food identification
-- **Personalized Recommendations**: AI-driven meal planning and nutrition advice
+FoodMind is a comprehensive web application that combines artificial intelligence with nutrition science to provide personalized meal planning, food recognition, and dietary guidance.e
 
 ## 🛠️ Technology Stack
 
