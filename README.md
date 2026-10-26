@@ -15,17 +15,6 @@ FoodMind is a comprehensive web application that combines artificial intelligenc
 - **Meal Planning**: Automated weekly meal plans based on preferences
 - **Dietary Accommodations**: Support for various dietary restrictions
 
-### 📱 User Experience
-- **Responsive Design**: Beautiful, mobile-first interface
-- **Real-time Analytics**: Track nutrition goals and progress
-- **Video Tutorials**: Step-by-step cooking instructions
-- **Community Features**: Share recipes and tips
-
-### 💳 Subscription System
-- **Flexible Plans**: Free, Premium, and Professional tiers
-- **Stripe Integration**: Secure payment processing
-- **Usage Analytics**: Track API usage and features
-
 ## 🛠️ Technology Stack
 
 ### Frontend
